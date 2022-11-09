@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RateMyBurger</string>
+    <string name="submit">submit</string>
+    <string name="burger">Burger</string>
+</resources>
